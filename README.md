@@ -23,9 +23,15 @@ Check out my personal portfolio project where you can **interact with a chatbot 
 
 ## 📌 Experience & Projects  
 
-- **💼 Student Assistant @ NTNU (Programming, Numerics, and Security - INGT1002)**  
-  - Supported students with Python programming, numerical computations, and ICT security fundamentals.  
-  - Helped design and evaluate weekly exercises and final assessments.
+- **📚 Content Student Assistant @ Engage Resource Hub (NTNU)** *(06/2025 – Present)*  
+  - Managing and publishing **educational content** for a cross-program resource platform.  
+  - Supporting **feature development** and assisting with **technical and design improvements**.  
+  - Collaborating with multiple study programs to make digital resources accessible and user-friendly.
+
+- **💼 Student Assistant @ NTNU (Programming, Numerics, and Security - INGT1002)** *(08/2025 – Present)*  
+  - Supporting students with Python programming, numerical computations, and ICT security fundamentals.  
+  - Assisting with the design and evaluation of weekly exercises and final assessments.  
+  - Providing guidance to help students apply programming and numerical methods to real-world engineering problems.
 
 - **🌐 Krisefikser.app (Fullstack Project)**  
   - Developed a **crisis preparedness platform** for Norway using **Spring Boot backend** + **Vue.js frontend**.  
