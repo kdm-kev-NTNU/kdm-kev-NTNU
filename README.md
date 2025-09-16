@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kevin Dennis Mazali  
 
-Third-year software engineering student at NTNU Trondheim. I enjoy building practical, scalable solutions and I'm especially interested in web development and AI.
+Third-year software engineering student at NTNU Trondheim. I enjoy building practical and scalable solutions, with a special interest  in web development and AI.
 ---
 
 ## 🌟 Portfolio
