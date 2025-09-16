@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Kevin Dennis Mazali  
 
-🎓 Third-year **Software Engineering (Dataingeniør)** student at **NTNU Trondheim**.  
-🌐 Passionate about **building scalable, data-driven systems** that solve complex real-world problems.  
-💡 Interested in **fullstack development, algorithms, and machine learning**, with a strong foundation in **mathematics, physics, and statistics**.  
-
+🎓 Third-year software engineering student at NTNU Trondheim.
+🌐 I enjoy building practical, scalable solutions that turn data into real value.
+💡 Especially interested in web development and AI, backed by a solid background in math, physics, and statistics.
 ---
 
 ## 🌟 Portfolio
@@ -48,14 +47,6 @@ Check out my personal portfolio project where you can **interact with a chatbot 
   - Implemented shortest-path solutions using **Dijkstra** and **ALT search algorithms** on Nordic map data.  
   - Added functionality to locate **nearest points of interest (POIs)**.  
   - **Repo:** [Roadmap](https://gitlab.stud.idi.ntnu.no/blackandbrown/kortestvei)
-
----
-
-## 🚀 What drives me  
-- Turning **complex, analytical problems** into efficient, scalable solutions.  
-- Combining **technical development** with **data-driven insights** to create real-world impact.  
-- Exploring **emerging technologies**, such as AI and machine learning.  
-- Working collaboratively in **cross-functional, agile teams**.  
 
 ---
 
