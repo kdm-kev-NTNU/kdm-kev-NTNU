@@ -50,8 +50,6 @@ Check out my personal portfolio project where you can **interact with a chatbot 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdm-kev-NTNU&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=86400)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdm-kev-NTNU&layout=compact&langs_count=8&hide=css,scss,html&theme=tokyonight&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=kdm-kev-NTNU&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400)
