@@ -48,14 +48,6 @@ Check out my personal portfolio project where you can **interact with a chatbot 
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdm-kev-NTNU&layout=compact&langs_count=8&hide=css,scss,html&theme=tokyonight&cache_seconds=86400)
-
-![Streak](https://streak-stats.demolab.com?user=kdm-kev-NTNU&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400)
-
----
-
 ## 📫 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dennis-mazali/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevindmazali@gmail.com)  
