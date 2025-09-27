@@ -30,18 +30,18 @@ Check out my personal portfolio project where you can **interact with a chatbot 
   - Assisting with the design and evaluation of weekly exercises and final assessments.  
   - Providing guidance to help students apply programming and numerical methods to real-world engineering problems.
 
-- ** Krisefikser.app (Fullstack Project)**  
+- **Krisefikser.app (Fullstack Project)**  
   - Developed a **crisis preparedness platform** for Norway using **Spring Boot backend** + **Vue.js frontend**.  
   - Agile teamwork in a 3-week sprint, with continuous feedback from product owners.  
   - **Live site:** [krisefikser.app](https://krisefikser.app)  
   - **Repo:** [Krisefikser GitHub](https://github.com/idatt2106-v25-02/krisefikser)
 
-- ** LEGO Data Analysis Project**  
+- **LEGO Data Analysis Project**  
   - Regression, clustering, and classification on LEGO datasets using **Python**.  
   - Explored pricing differences between LEGO sets for different demographics.  
   - **Repo:** [LEGO Analysis](https://github.com/kdm-kev-NTNU/ISST1003_GR15)
 
-- ** Roadmap (Algorithms & Data Structures)**  
+- **Roadmap (Algorithms & Data Structures)**  
   - Implemented shortest-path solutions using **Dijkstra** and **ALT search algorithms** on Nordic map data.  
   - Added functionality to locate **nearest points of interest (POIs)**.  
   - **Repo:** [Roadmap](https://gitlab.stud.idi.ntnu.no/blackandbrown/kortestvei)
