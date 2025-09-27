@@ -10,7 +10,7 @@ Check out my personal portfolio project where you can **interact with a chatbot 
 
 ---
 
-## 🔧 Tech Stack & Skills  
+## Tech Stack & Skills  
 
 | **Languages & Frameworks** | **Databases & Tools** | **Currently Learning** |
 |-----------------------------|------------------------|-------------------------|
@@ -18,36 +18,36 @@ Check out my personal portfolio project where you can **interact with a chatbot 
 
 ---
 
-## 📌 Experience & Projects  
+## Experience & Projects  
 
-- **📚 Content Student Assistant @ Engage Resource Hub (NTNU)** *(06/2025 – Present)*  
+- **Content Student Assistant @ Engage Resource Hub (NTNU)** *(06/2025 – Present)*  
   - Managing and publishing **educational content** for a cross-program resource platform.  
   - Supporting **feature development** and assisting with **technical and design improvements**.  
   - Collaborating with multiple study programs to make digital resources accessible and user-friendly.
 
-- **💼 Student Assistant @ NTNU (Programming, Numerics, and Security - INGT1002)** *(08/2025 – Present)*  
+- **Student Assistant @ NTNU (Programming, Numerics, and Security - INGT1002)** *(08/2025 – Present)*  
   - Supporting students with Python programming, numerical computations, and ICT security fundamentals.  
   - Assisting with the design and evaluation of weekly exercises and final assessments.  
   - Providing guidance to help students apply programming and numerical methods to real-world engineering problems.
 
-- **🌐 Krisefikser.app (Fullstack Project)**  
+- ** Krisefikser.app (Fullstack Project)**  
   - Developed a **crisis preparedness platform** for Norway using **Spring Boot backend** + **Vue.js frontend**.  
   - Agile teamwork in a 3-week sprint, with continuous feedback from product owners.  
   - **Live site:** [krisefikser.app](https://krisefikser.app)  
   - **Repo:** [Krisefikser GitHub](https://github.com/idatt2106-v25-02/krisefikser)
 
-- **📊 LEGO Data Analysis Project**  
+- ** LEGO Data Analysis Project**  
   - Regression, clustering, and classification on LEGO datasets using **Python**.  
   - Explored pricing differences between LEGO sets for different demographics.  
   - **Repo:** [LEGO Analysis](https://github.com/kdm-kev-NTNU/ISST1003_GR15)
 
-- **🗺 Roadmap (Algorithms & Data Structures)**  
+- ** Roadmap (Algorithms & Data Structures)**  
   - Implemented shortest-path solutions using **Dijkstra** and **ALT search algorithms** on Nordic map data.  
   - Added functionality to locate **nearest points of interest (POIs)**.  
   - **Repo:** [Roadmap](https://gitlab.stud.idi.ntnu.no/blackandbrown/kortestvei)
 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-dennis-mazali/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevindmazali@gmail.com)  
