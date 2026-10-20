@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kevin Dennis Mazali
 
-Master's student in **data technology** (main profile: artificial intelligence) at NTNU Trondheim. I completed a bachelor's in **data engineering — system development** (Aug 2023 – Jun 2026). I enjoy building practical and scalable solutions, with a special interest in web development and applied AI.
+Master's student in **Computer Science** (main profile: artificial intelligence) at NTNU Trondheim. I completed a bachelor's in **data engineering — system development** (Aug 2023 – Jun 2026). I enjoy building practical and scalable solutions, with a special interest in web development and applied AI.
 
 Talk to an AI that knows my portfolio: **[kevindmazali.me](https://kevindmazali.me)**
 
@@ -8,7 +8,7 @@ Talk to an AI that knows my portfolio: **[kevindmazali.me](https://kevindmazali.
 
 ## 🎓 Education
 
-- **Master's in Data Technology** — Artificial Intelligence *(NTNU, Aug 2026 – Jun 2028)* · civil engineer (sivilingeniør) track, 120 credits
+- **Master's in Computer Technology** — Artificial Intelligence *(NTNU, Aug 2026 – Jun 2028)* · civil engineer (sivilingeniør) track, 120 credits
 - **Bachelor's in Engineering, Data — System Development** *(NTNU, Aug 2023 – Jun 2026)* · 180 credits
 
 ---
